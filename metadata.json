@@ -1,0 +1,6 @@
+{
+  "name": "CyberEAL",
+  "description": "Continuous Cyber-Risk Quantification SaaS with FAIR + FABRICS loss exposure methodology, Monte Carlo simulation, and explainability.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
